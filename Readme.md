@@ -17,11 +17,11 @@ Santa and elfs are processes. Elfs building toys (simulation via sleep for rand 
 
 	./santa a b c d
 	
-* **a**,**b**,**c**,**d** is integer numbers
+* **a**, **b**, **c**, **d** is integer numbers
 * **a** is number of toys, which needed elf for vacation
 * **b** is number of elfs
 * **c** is maximum time for build one toy ***rand(0,c)***
-* **d** is maximum time of santa's help
+* **d** is maximum time of santa's help ***rand(0,d)***
 	
 Output is in *santa.out*.
 
